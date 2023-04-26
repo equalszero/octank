@@ -51,7 +51,7 @@ const Header = () => {
                     color: '#fff',
                 }}
                 >
-                    Come buy some SHIT
+                    Hello
                 </Typography>
 
                 <Typography
